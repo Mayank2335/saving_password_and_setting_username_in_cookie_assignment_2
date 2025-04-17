@@ -3,6 +3,23 @@
     "start": "servor --reload"
   },
   "dependencies": {
+    "express": "^5.1.0",
     "servor": "^4.0.2"
-  }
+  },
+  "name": "saving_password_and_setting_username_in_cookie_assignment_2",
+  "version": "1.0.0",
+  "description": "- Grasp the concept of SHA256 cryptographic hashing.\r - Enhance analytical skills in decoding hash values.",
+  "main": "cracking_pass.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mayank2335/saving_password_and_setting_username_in_cookie_assignment_2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mayank2335/saving_password_and_setting_username_in_cookie_assignment_2/issues"
+  },
+  "homepage": "https://github.com/Mayank2335/saving_password_and_setting_username_in_cookie_assignment_2#readme"
 }
